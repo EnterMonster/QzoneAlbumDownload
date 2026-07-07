@@ -14,7 +14,7 @@
 1. 安装依赖
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 2. 运行程序
